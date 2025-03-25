@@ -68,9 +68,11 @@
 ### 🔐 **Cybersecurity & Hacking**  
 <p align="left">
   <img src="https://www.kali.org/tools/eyewitness/images/eyewitness-logo.svg" alt="Kali Linux" width="40" height="40"/>  
-  <img src="https://www.offsec.com/assets/metasploit-framework-logo.png" alt="Metasploit" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Wireshark_Icon.svg" alt="Wireshark" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nmap-logo.svg" alt="Nmap" width="40" height="40"/>  
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="40" height="40"/>  
+  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="40" height="40"/>  
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="40" height="40"/> 
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/>
 </p>
 
 ---
