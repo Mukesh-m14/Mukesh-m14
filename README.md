@@ -9,7 +9,8 @@
 
 ## 🚀 About Me  
 - 🔒 Passionate about **Cybersecurity & Ethical Hacking**  
-- 🌐 Skilled in **Web Development & DevOps**  
+- 🌐 Skilled in **Web Development & DevOps**
+- 📱 learning **Mobile App Development using Flutter & React Native**  
 - 🤖 Learning **AI/ML & Data Science**  
 - 🛠️ Building **secure, scalable, and high-performance applications**  
 - 📚 Always **learning** new technologies  
@@ -63,6 +64,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>  
+</p>
+
+### 📱 **App Development**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>  
 </p>
 
 ### 🔐 **Cybersecurity & Hacking**  
