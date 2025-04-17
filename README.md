@@ -122,13 +122,18 @@
   </div>
 
   <!-- Profile Summary with Border -->
-  <div style="max-width: 800px; margin: 0 auto;">
+  <div style="max-width: 800px; margin: 0 auto 20px auto;">
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukesh-m14&theme=radical" 
       alt="Mukesh's GitHub Summary"
       style="width: 100%; border-radius: 12px; border: 1px solid #30363d;"
     />
   </div>
+
+  <!-- GitHub Streak with Radical Theme -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-m14&theme=radical&border_radius=12&hide_border=false" alt="GitHub Streak" style="border-radius: 12px; border: 1px solid #30363d;" />
+  </p>
 </section>
 
 ---
