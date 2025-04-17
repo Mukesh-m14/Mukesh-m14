@@ -18,14 +18,6 @@
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-m14)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mukesh-m14)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukesh-m14)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-
----
-
 ## 🛠️ Tech Stack  
 
 <!-- Web Development (MERN Stack) Section -->
@@ -115,6 +107,34 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-m14&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+<h2>🌐 Connect with Me</h2>
+<p>
+  <a href="https://linkedin.com/in/mukesh-m14" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://x.com/mukesh-m14" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X"/>
+  </a>
+
+  <a href="https://github.com/mukesh-m14" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+
+  <a href="https://yourportfolio.com" target="_blank" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" width="40" height="40" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:your.email@example.com" target="_blank" style="margin-right: 15px;">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" height="40" alt="Gmail"/>
+  </a>
+
+  <a href="https://instagram.com/your_username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40" height="40" alt="Instagram"/>
+  </a>
 </p>
 
 ---
