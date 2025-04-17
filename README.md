@@ -112,11 +112,11 @@
 ---
 <h2>🌐 Connect with Me</h2>
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-kumar-m" target="_blank" style="margin-right: 15px;">
+  <a href="https://linkedin.com/in/mukesh-kumar-m" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 
-  <a href="https://x.com/https://x.com/Mukesh_014" target="_blank" style="margin-right: 15px;">
+  <a href="https://x.com/Mukesh_014" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X"/>
   </a>
 
@@ -132,7 +132,7 @@
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" height="40" alt="Gmail"/>
   </a>
 
-  <a href="https://instagram.com/https://www.instagram.com/official_mukesh_14" target="_blank">
+  <a href="https://instagram.com/official_mukesh_14" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
